@@ -12,6 +12,7 @@
     "axios": "^0.16.2",
     "dotenv": "^4.0.0",
     "faker": "^4.1.0",
+    "fast-csv": "^2.4.0",
     "sleep-promise": "^2.0.0"
   }
 }
